@@ -22,7 +22,7 @@ This project is built on the concept of open source. This means the platform's d
 The primary aim of EduPapers is to democratize access to education by providing a free and centralized hub for educational resources. The long-term goal is to empower students by equipping them with the tools and materials needed to succeed academically.
 
 ### Getting Involved
-I welcome anyone who shares this vision to join this community. Here's how you can contribute:
+We welcome anyone who shares this vision to join this community. Here's how you can contribute:
 
  - **Developers:** Help build the web and mobile app interface for the platform.
  - **Content Creators:** Upload your educational resources (notes, tests, past papers) to share with others.
@@ -39,4 +39,4 @@ To ensure a positive and inclusive community environment, I ask all contributors
  - **Collaboration:** Work collaboratively with other contributors, sharing ideas and expertise to achieve common goals.
  - **Inclusivity:** Welcome contributions from individuals of all backgrounds and identities, fostering a diverse and inclusive community.
 
-If you have any questions, suggestions, or feedback about this project, please don't hesitate to reach out to me via email: [brianmwangikamau4@gmail.com](mailto:brianmwangikamau4@gmail.com)
+If you have any questions, suggestions, or feedback about this project, please don't hesitate to reach out through the discussions tab.
